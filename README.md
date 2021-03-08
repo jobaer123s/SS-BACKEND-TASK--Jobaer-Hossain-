@@ -1,7 +1,10 @@
 # Simple-blogging-application-APICancel Changes
 
-## project API > Go to >
+## Blog post API > Go to >
 server>userApi.js
+
+## GraphQl > Go to >
+graphQl > graphqlToken.js
 
 ## In the project directory, you can run:
  `npm start`
