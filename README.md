@@ -10,3 +10,5 @@ server>userApi.js
 `npm init -y`
 `"start": "node server/index.js"`
 `npm i express`
+`npm install graphql --save`
+
