@@ -1,0 +1,23 @@
+{
+  "name": "Simple-blogging-application-API",
+  "version": "1.0.0",
+  "description": "**project creation**",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jobaer123s/Simple-blogging-application-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jobaer123s/Simple-blogging-application-API/issues"
+  },
+  "homepage": "https://github.com/jobaer123s/Simple-blogging-application-API#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
